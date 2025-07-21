@@ -1,64 +1,92 @@
 <p align="center">
-  <a href="https://github.com/tabishfarhan7/tabishfarhan7/blob/main/assets/pinterestdownloader.com-1739268366.629449.gif"><img width="400" src="https://github.com/tabishfarhan7/tabishfarhan7/blob/main/assets/pinterestdownloader.com-1739268366.629449.gif"  title="Yatishhhhh....." ref="https://www.instagram.com/tabishfarhan_7/?hl=el"></a>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="320" alt="Coding Animated GIF"/>
 </p>
-<h4 align="center">Hello there! I'm Yatish Kumar and welcome to my github, I usually do web, cloud tech, sulking and some open source. these days I'm exploring python, machine learning and depression, and I hope to have them all just the right amount this time.</h4>
-<br />
-<p align="center"><!-- &nbsp; <a href="https://mgks.dev" title="Blog: mgks.dev"><img title="zen by @qtqr8r" width="32" src="https://mgks.dev/assets/icons/mgks.dev-logo-192.png" /></a>&nbsp; --><a href="https://www.instagram.com/yatishydv/" title="Instagram"><img width="32" src="https://mgks.dev/assets/icons/insta-23.png" /></a> &nbsp; <a href="https://www.linkedin.com/in/yatishydv/" title="LinkedIn"><img width="32" src="https://mgks.dev/assets/icons/linkedin-23.png" /></a> &nbsp; <a href="https://github.com/Yatishydv" title="Be my Patron"><img width="32" src="https://mgks.dev/assets/icons/ic-heart.png"></a><br />
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=2000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Yatish+Kumar!;Full+Stack+Developer+%7C+Cloud+%26+AI+Enthusiast;Open+Source+Explorer+%7C+Creative+Technologist" alt="Typing SVG">
+</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+welcome+To my Github!;Yatish+Full+Stack+developer !; check+my+Repository!; hope+you+enjoy!&font=Fira%20Code&center=true&width=400&height=65&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://img.shields.io/badge/Code%20With-Passion-%23FF69B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud-Azure-blue?style=for-the-badge&logo=microsoftazure" />
+  <img src="https://img.shields.io/badge/Loves-Coffee-%2332CD32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-%23FFD700?style=for-the-badge&logo=github" />
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Yatishydv&label=Profile%20views&color=0e75b6&style=flat" alt="alikhazaeii" /> </p>
 
-<h3 align="center" font-size='25px'>My favorite tools and technologies</h3>
+---
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
-    </td>
-       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-      <br>VsCode
-    </td>    
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>Github
-    </td>
-    <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-  
-  </tr>
-</table>
+<p align="center">
+  <samp>
+    🚀 <b>Welcome to my digital universe!</b><br>
+    I'm a <b>Full Stack Developer</b> who loves building web experiences, cloud solutions, and dabbling in AI.<br>
+    Always exploring, learning, and sharing.<br>
+    Currently fascinated by <b>Machine Learning, DevOps, and creative coding</b>.<br>
+    <br>
+    <b>Motto:</b> <i>Code. Create. Collaborate. Celebrate.</i>
+  </samp>
+</p>
 
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
+---
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<h2 align="center">🛠️ My Tech Toolbox</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vue,ts,js,python,tailwind,html,css,bootstrap,git,github,linux,azure,docker,mysql,figma" />
+</p>
+
+---
+
+<h2 align="center">🌈 What Drives Me?</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+awesome+projects;Learning+something+new+every+day;Helping+the+community+grow;Spreading+positive+vibes!&font=Fira%20Code&center=true&width=550&height=35&duration=3500&pause=800" alt="Motivation Typing SVG">
+</p>
+
+<ul>
+  <li>👨‍💻 <b>Innovator:</b> Turning ideas into delightful digital products.</li>
+  <li>🌎 <b>Explorer:</b> New tech, new stacks, new adventures.</li>
+  <li>🧩 <b>Problem Solver:</b> If it's broken, I'll fix it. If it works, I'll improve it.</li>
+  <li>🤝 <b>Connector:</b> Always up for collaboration and open source fun.</li>
+</ul>
+
+---
+
+<h2 align="center">📈 My GitHub Journey</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yatishydv&show_icons=true&theme=dracula" alt="stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Yatishydv&theme=dracula&hide_border=true" width="400"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Yatishydv&theme=dracula" width="97%" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg" width="97%" />
+</p>
+
+---
+
+<h2 align="center">🌟 Let's Connect!</h2>
+<p align="center">
+  <a href="mailto:yatishydv@gmail.com" title="Email">
+    <img width="40" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/yatishydv/" title="LinkedIn">
+    <img width="40" src="https://mgks.dev/assets/icons/linkedin-23.png" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/yatishydv/" title="Instagram">
+    <img width="40" src="https://mgks.dev/assets/icons/insta-23.png" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Yatishydv" title="GitHub">
+    <img width="40" src="https://mgks.dev/assets/icons/ic-heart.png">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
+<p align="center">
+  <samp>
+    <b>Thanks for visiting!<br>
+    Let's code something amazing together 🚀</b>
+  </samp>
+</p>
