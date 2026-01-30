@@ -1,96 +1,88 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="350" alt="Welcome Animation" />
-</p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=2000&color=8F00FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Yatish+Kumar+%F0%9F%91%8B;Full+Stack+Developer+%7C+Cloud+Native+Fan;AI+Explorer+%7C+Open+Source+Builder" alt="Typing SVG">
-</h1>
+<!-- HERO -->
+<h1 align="center">Hey 👋 I'm Yatish Kumar</h1>
+<h3 align="center">Full Stack Developer • Cloud & AI Explorer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Web%20Dev-React%20%7C%20Vue%20%7C%20TS-%23007ACC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloud-Azure%20%7C%20AWS-%232196F3?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-%23FFD700?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Loves-☕%20Coffee-%23d35400?style=for-the-badge" />
+  I build modern web apps, scalable systems,<br>
+  and turn ideas into real products.
 </p>
 
 ---
 
+<!-- BADGES -->
 <p align="center">
-  <samp>
-    🚀 <b>Welcome to my creative corner on GitHub!</b><br>
-    I'm a <b>Full Stack Developer</b> passionate about crafting beautiful web apps, scalable cloud systems, and playing with AI.<br>
-    Always exploring, always building, always learning.<br>
-    <br>
-    <b>Motto:</b> <i>Invent. Iterate. Inspire.</i>
-  </samp>
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20AI-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Open%20Source-Active-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Fueled%20By-Coffee-brown?style=for-the-badge">
 </p>
 
 ---
 
-<h2 align="center">🧩 Favorite Tech Stack</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,ts,js,python,html,css,tailwind,bootstrap,git,github,linux,azure,aws,docker,figma" />
+## 🚀 About Me
+
+I'm a developer who enjoys:
+- building **complete end-to-end projects**
+- working on **real-world problems**
+- learning by **shipping, failing, and improving**
+
+I prefer:
+> clean code over clever hacks  
+> useful products over flashy demos  
+
+---
+
+## 🧩 Tech Stack
+
+<p>
+<b>Frontend:</b> React, Vue, JavaScript, TypeScript, HTML, CSS, Tailwind, Bootstrap
+</p>
+
+<p>
+<b>Backend:</b> JavaScript, Python, REST APIs
+</p>
+
+<p>
+<b>Cloud & Tools:</b> Azure, AWS, Docker, Git, GitHub, Linux, Figma
 </p>
 
 ---
 
-<h2 align="center">🌠 What I Love Doing</h2>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+modern+web+experiences;Automating+the+boring+stuff;Learning+AI+and+ML;Open+source+contributions;Mentoring+and+connecting!&font=Fira%20Code&center=true&width=550&height=35&duration=3500&pause=800" alt="Motivation Typing SVG">
-</p>
+## 🌠 What I Love Working On
 
-<ul>
-  <li>💡 <b>Inventor:</b> I turn ideas into engaging digital products.</li>
-  <li>🌍 <b>Explorer:</b> Always trying new tools, stacks, and tech trends.</li>
-  <li>🧠 <b>Problem Solver:</b> Bugs fear me, users cheer me.</li>
-  <li>🤝 <b>Collaborator:</b> Love pairing up for hackathons & open source!</li>
-</ul>
+- 🌐 Modern web applications  
+- ☁️ Cloud-native architectures  
+- 🤖 Automation & AI experiments  
+- 🛠️ Tools that save time  
 
 ---
 
-<h2 align="center">📊 My GitHub Stats & Highlights</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yatishydv&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Yatishydv&theme=tokyonight&hide_border=true" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yatishydv&layout=compact&theme=tokyonight&hide_border=true" width="400" />
-</p>
+## 🧠 Mindset
+
+- Long-term thinking
+- Strong fundamentals
+- Constant learning
+- Building things that actually matter
 
 ---
 
-<h2 align="center">📅 Recent GitHub Activity</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yatishydv&theme=tokyonight&hide_border=true" width="90%" alt="activity graph"/>
-</p>
+## 🌐 Connect With Me
 
----
-
-<h2 align="center">🌐 Let's Connect & Collaborate!</h2>
-<p align="center">
-  <a href="mailto:yatishydv@gmail.com" title="Email">
-    <img width="40" src="https://img.icons8.com/fluency/48/gmail-new.png" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/yatishydv/" title="LinkedIn">
-    <img width="40" src="https://img.icons8.com/color/48/linkedin.png" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/yatishydv/" title="Instagram">
-    <img width="40" src="https://img.icons8.com/color/48/instagram-new--v2.png" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Yatishydv" title="GitHub">
-    <img width="40" src="https://img.icons8.com/ios-filled/50/github.png">
-  </a>
-</p>
+📧 **Email:** yatishydv@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/yatishydv/  
+📸 **Instagram:** https://www.instagram.com/yatishydv/  
+🐙 **GitHub:** https://github.com/Yatishydv  
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
+  <b>Thanks for visiting.</b><br>
+  Let’s build something meaningful 🚀
 </p>
-<p align="center">
-  <samp>
-    <b>Thanks for scrolling!<br>
-    Let's create, learn & grow together 🚀</b>
-  </samp>
-</p>
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![stats](https://github-readme-stats.vercel.app/api?username=Yatishydv&show_icons=true)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yatishydv&layout=compact)
+
+</details>
