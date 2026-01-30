@@ -79,10 +79,3 @@ I prefer:
   <b>Thanks for visiting.</b><br>
   Let’s build something meaningful 🚀
 </p>
-<details>
-<summary>📊 GitHub Stats</summary>
-
-![stats](https://github-readme-stats.vercel.app/api?username=Yatishydv&show_icons=true)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yatishydv&layout=compact)
-
-</details>
