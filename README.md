@@ -68,7 +68,7 @@ I prefer:
 
 ## 🌐 Connect With Me
 
-📧 **Email:** yatishydv@gmail.com  
+📧 **Email:** yatish0155@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/yatishydv/  
 📸 **Instagram:** https://www.instagram.com/yatishydv/  
 🐙 **GitHub:** https://github.com/Yatishydv  
